@@ -1,0 +1,18 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.opencv"
+4    android:versionCode="3490"
+5    android:versionName="3.4.9" >
+6
+7    <uses-sdk
+7-->S:\Android\workspace\Mvision2\openCVLibrary349\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="21"
+8-->S:\Android\workspace\Mvision2\openCVLibrary349\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="26" />
+9-->S:\Android\workspace\Mvision2\openCVLibrary349\src\main\AndroidManifest.xml:7:15-44
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->S:\Android\workspace\Mvision2\openCVLibrary349\src\main\AndroidManifest.xml:8:5-65
+11-->S:\Android\workspace\Mvision2\openCVLibrary349\src\main\AndroidManifest.xml:8:22-62
+12
+13</manifest>
